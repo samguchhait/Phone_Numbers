@@ -1,7 +1,5 @@
 # Phone Numbers
 
-A command-line Python program that reads names and phone numbers from a file, validates and formats the numbers using the North American Numbering Plan (NANP), and prints them in sorted order.
-
 ## Features
 - Converts letters in phone numbers to their numeric equivalent (e.g., `1-800-FLOWERS` to `1-800-356-9377`). 
 - Supports optional leading `1` for U.S. country code.
