@@ -35,7 +35,7 @@ The program prints valid phone numbers in this format, sorted numerically:
 ## How to Run
 
 - Make sure you have Python 3.x installed.
-- No external libraries required (only argparse, re, and sys).
+- No external libraries required (only `argparse`, `re`, and `sys`).
 - My program is designed to run from the terminal.
 - To run it, open a terminal and ensure you are in the directory where your script and sample file are saved.
 
